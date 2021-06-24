@@ -1,0 +1,19 @@
+Pre-Requisites: NEAR Workshop
+
+
+Developer Documents are available here:
+https://docs.near.org/docs/develop/basics/getting-started
+
+Mandatory prerequisites:
+Install NodeJS
+ -  NEAR-SDK-AS: For writing AssemblyScript smart contracts
+ -  NEAR-API-JS: JavaScript library to interact with accounts and smart contracts on NEAR
+ -  NEAR CLI: Command line interface tool to interact with accounts and smart contracts on NEAR
+ -  Testnet wallet account on NEAR(Here is the link: https://wallet.testnet.near.org/)
+
+Optional prerequisites:
+  - Rust(For Rust smart contracts)
+  - NEARUP: For running a local instance of NEAR
+
+If we have time, we may explore Arurora - which is EVM compatible too. 
+For this, we would need Metamask but it is not mandatory. I can just share my screen.
